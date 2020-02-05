@@ -1,0 +1,28 @@
+body {
+    background-color: burlywood;
+}
+
+span.uo {
+    font-style: oblique;
+    text-decoration: underline;
+}
+
+span.b {
+    font-weight: bold;
+
+}
+
+.centered {
+    text-align: center;
+    text-align: justify;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.left {
+    text-align: left;
+}
+
+.right {
+    text-align: right;
+}
